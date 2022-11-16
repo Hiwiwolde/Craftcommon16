@@ -5,5 +5,5 @@
  * @author hiwiw
  *
  */
-module Project1 {
+module HiwotJavapro1 {
 }

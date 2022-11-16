@@ -1,13 +1,14 @@
-package com.sample1;
+package com.sample11;
 
 import java.util.Scanner;
 
-public class Studentinfo1Scanner {
+public class Studentinfoscanner {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
-		Scanner input= new Scanner(System.in);
+		
+		
+Scanner input= new Scanner(System.in);
 		
 		System.out.println("Please enter your firstName");
 		String firstName = input.next();
@@ -35,13 +36,6 @@ public class Studentinfo1Scanner {
 		System.out.println("Student bonus:" + bonus);
 		System.out.println("Student totalSalary:" + totalSalary);
 	
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }

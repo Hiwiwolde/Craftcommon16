@@ -1,10 +1,10 @@
-package com.sample1;
+package com.sample11;
 
-public class Studentinfo1 {
+public class Hproject11 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+
 		String firstName= "James";
 		String lastName= "Bond"; 
 		
@@ -22,11 +22,6 @@ public class Studentinfo1 {
 		System.out.println("Student Salary:" + Salary);
 		System.out.println("Student bonus:" + bonus);
 		System.out.println("Student totalSalary:" + totalSalary);
-		
-		
-		
-		
-
 	}
 
 }
